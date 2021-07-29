@@ -1,0 +1,11 @@
+ .gray-scale {
+  filter: grayscale(1);
+ }
+ .user-image {
+  height: 40%;
+  width: 40%;
+  border-radius: 50%;
+ }
+ .honda-bg-danger {
+  background-color: #E76F51;
+ }
